@@ -1,0 +1,6 @@
+com/model/Products.class
+com/util/JsonResult.class
+com/util/ManagerDB.class
+com/model/Clients.class
+com/model/ProductsClient.class
+com/model/Users.class
