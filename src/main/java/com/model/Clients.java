@@ -1,3 +1,8 @@
+/**
+ * Copyright 2017, ManuelMartinMartin
+ *
+ * Task for rindus
+ */
 package com.model;
 
 /**
